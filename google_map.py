@@ -145,5 +145,5 @@ def main(url: str, search_key: str):
 
 if __name__ == '__main__':
     url = 'https://www.google.com/maps'
-    search_key = 'Consultancy Near Putalisadak'
+    search_key = 'School near me'
     main(url, search_key)
